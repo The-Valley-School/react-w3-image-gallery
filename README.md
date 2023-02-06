@@ -1,4 +1,4 @@
-# WORKSHOP 3: Galería de imágenes
+# WORKSHOP 4: Galería de imágenes
 
 En esta ocasión vamos a realizar un buscador de imágenes como el que se muestra en la siguiente imagen:
 
