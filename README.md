@@ -25,9 +25,9 @@ Durante este WorkShop debemos implementar todo lo que se ha visto esta semana:
 
 Datos de la API:
 
-Vamos a utilizar la API de imágenes PEXELS: [https://www.pexels.com/api](https://www.pexels.com/api/) 
+Vamos a utilizar la API de imágenes PEXELS: <https://www.pexels.com/api/>
 
-Para poder usar la API te tendrás que registrar y generar un API KEY : [https://www.pexels.com/join-consumer](https://www.pexels.com/join-consumer/) 
+Para poder usar la API te tendrás que registrar y generar un API KEY : <https://www.pexels.com/join-consumer/>
 
 ![Untitled](/assets/Untitled%204.png)
 
@@ -37,7 +37,7 @@ Y generar API KEY:
 
 Una vez tengas tu API Key podrás hacer llamadas GET a la API:
 
-[https://api.pexels.com/v1/search?query=arbol](https://api.pexels.com/v1/search?query=arbol) 
+<https://api.pexels.com/v1/search?query=arbol>
 
 Para que te funcione tendrás que mandar una cabecera “Authorization” con la clave que has generado, te dejamos por aquí un fragmento de código de ejemplo:
 
@@ -55,8 +55,3 @@ fetch(finalUrl, options)
     console.log(dataParsed);
   });
 ```
-
-**CODIGO DE LA APLICACIÓN RESUELTA
-NO ENTREGAR A LOS ALUMNOS**
-
-[https://github.com/The-Valley-School/react-w3-image-gallery](https://github.com/The-Valley-School/react-w3-image-gallery)
